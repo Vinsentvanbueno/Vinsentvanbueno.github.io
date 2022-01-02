@@ -463,7 +463,7 @@ button {
      align-items: center;
      justify-content: center;
      margin: 0 auto;
-     border-radius: 85px;
+     border-radius: 90px;
      transition: ease-in all 0.1s;
      cursor: pointer;
 }
